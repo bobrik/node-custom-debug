@@ -1,10 +1,6 @@
 ## node-custom-debug
 
-Here will be module to run debugger from your node.js application on your favorite port
-
-**Benefits**:
-
-* You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly
+You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly
 
 ### Usage
 
