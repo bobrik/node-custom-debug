@@ -2,6 +2,10 @@
 
 You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly
 
+### Installation
+
+`npm install -g custom-debug`
+
 ### Usage
 
 See `test.js`:
