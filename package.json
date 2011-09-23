@@ -11,5 +11,8 @@
         "type": "git",
         "url": "git://github.com/bobrik/node-custom-debug.git"
     },
-    "main": "./custom-debug.js"
+    "main": "./custom-debug.js",
+    "scripts": {
+        "install": "node-waf configure build"
+    }
 }
