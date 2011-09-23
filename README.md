@@ -1,6 +1,8 @@
 ## node-custom-debug
 
-You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly
+You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly.
+
+It's good to use with [node-inspector](http://github.com/dannycoates/node-inspector) to inspect many instances on the single server.
 
 ### Installation
 
