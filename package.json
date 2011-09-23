@@ -1,0 +1,15 @@
+{
+    "name": "custom-debug",
+    "version": "0.1.0",
+    "description": "You have no need to fix your daemon's init scripts to enable debugging and profiling on the fly",
+    "keywords": ["debug", "debugger", "profiler", "v8", "heap"],
+    "author": "Ian Babrou <ibobrik@gmail.com>",
+    "engines": [
+        "node"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bobrik/node-custom-debug.git"
+    },
+    "main": "./custom-debug.js"
+}
